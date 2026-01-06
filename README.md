@@ -20,7 +20,7 @@
 
 Вы можете посмотреть мои творения в мастерской стим!(да там точно также пусто как и сдесь)
 
-<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198881859860"/>
+[<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198881859860"/>](https://steamcommunity.com/id/REZ9_Inside)
 <!--
 **REZ9/REZ9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
